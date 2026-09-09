@@ -4,36 +4,11 @@
 
 ### Louisville, Kentucky.
 
-In the study of Meteorites, it is well known that, of all the 
-simple and compound substances met with in these bodies, the 
-carbon has received the least study and investigation. This has 
-arisen principally from the limited amount of material at the 
-command of the chemist,—a fact to be regretted, since if any 
-one element more than another demands attention, and excites 
+[From the American Journal of Science and Arts, May and June, 1876.
 
+In the study of Meteorites, it is well known that, of all the simple and compound substances met with in these bodies, the carbon has received the least study and investigation. This has arisen principally from the limited amount of material at the command of the chemist, --- a fact to be regretted, since if any one element more than another demands attention, and excites wonder at the part it plays, either as an element or in its endless combinations with other substances, that element is carbon.
 
-J. L. Smath— Carbon Compounds in Meteorites 389 
-
-
-wonder at the part it plays, either as an element or in its end- 
-less combinations with other substances, that element is carbon. 
-
-In its elementary condition we see it in crystals of exceeding 
-hardness and brilliancy in the diamond, and also in irregular, 
-nearly opaque masses that are not to be eonfounded with the 
-diamond. Again, we have carbon in a soft, black, unctuous 
-state, either in lustrous flaky crystals, or in fine-grained masses. 
-It also occurs in the harsh and gritty form of coke, sometimes 
-changed to an unctuous body approaching graphite in aspect, 
-yet different physically as well as in some of its chemical rela- 
-tions. Deposits of anthracite furnish carbon in yet another 
-form. Besides these, the results of decomposition of what are 
-known as organic compounds give quite a list of different forms 
-of carbon, made either by the incomplete combustion of hydro- 
-carbons, or by passing through red-hot tubes the vapors of hy- 
-drocarbons, chloride of carbon, sulphide of carbon, ete., or by 
-the decompositions of such substances as carbonic acid, carbides 
-of boron, of iron, of manganese, etc. 
+In its elementary condition we see it in crystals of exceeding hardness and brilliancy in the diamond, and also in irregular, nearly opaque masses that are not to be confounded with the diamond. Again, we have carbon in a soft, black, unctuous state, either in lustrous flaky crystals, or in fine-grained masses. It also occurs in the harsh and gritty form of coke, sometimes changed to an unctuous body approaching graphite in aspect, yet different physically as well as in some of its chemical relations. Deposits of anthracite furnish carbon in yet another form. Besides these, the results of decomposition of what are known as organic compounds give quite a list of different forms of carbon, made either by the incomplete combustion of hydrocarbons, or by passing through red-hot tubes the vapors of hydrocarbons, chloride of carbon, sulphide of carbon, etc., or by the decompositions of such substances as carbonic acid, carbides of boron, of iron, of manganese, etc.
 
 These various forms of carbon have certain chemical differ- 
 ences, more or less marked, which differences have attracted the 
@@ -53,7 +28,7 @@ ferent carbons.t The physical differences of some of them are
 well known ; among these differences none is more remarkable 
 than that of their specific heats. Other bodies known as elements, 
 as silicon and boron, oxygen, etc., take upon themselves different 
-conditions called allotropic conditions,{—a term applied to the 
+conditions called allotropic conditions,{---a term applied to the 
 isomeric conditions of simple bodies; but carbon differs from 
 these, not only in exhibiting a most wonderful variety of allo- 
 tropic conditions, but also in the phenomena coming under the 
@@ -70,7 +45,7 @@ certain conditions, carbon, silicon, and boron are not exceptions to the law of
 Dulong and Petit, they still occupy a singular position in regard to specific heat. 
 
 
-390 J. L. Smith—Carbon Compounds in Meteorites. 
+390 J. L. Smith---Carbon Compounds in Meteorites. 
 
 
 so, that we are disposed to take this body away from the rank 
@@ -134,7 +109,7 @@ distinguish them from the stony and iron meteorites. There
 , 
 
 
-J. L. Smith—Carbon Compounds in Meteorites. 391 
+J. L. Smith---Carbon Compounds in Meteorites. 391 
 
 
 are but four of them yet known, viz: that which fell at Alais 
@@ -158,7 +133,7 @@ Tron protoxide-_ 29:03 29°94 26°20 29°60
 
 If we now contrast these mineral constituents with those pre- 
 dominating in well-known meteoric stones, a most striking fact 
-presents itself—one not commonly realized by those engaged in 
+presents itself---one not commonly realized by those engaged in 
 the study of these bodies. It is seen on comparing the above 
 with the following tables: 
 
@@ -199,7 +174,7 @@ granite to the cretaceous and tertiary deposits.
 Let any one look at the above table, and say whether or not 
 
 
-392 J. L. Smith—Carbon Compounds in Meteorites. 
+392 J. L. Smith---Carbon Compounds in Meteorites. 
 
 
 he sees so vast a difference in the mineral constituents of the 
@@ -222,7 +197,7 @@ the so-called common meteorites. I now pass on to show that
 even in their carbonaceous constituent they are strongly linked 
 even to the iron meteorites. 
 
-2. Graphite carbon in the lron Meteorites.—Kver since the inter- 
+2. Graphite carbon in the lron Meteorites.---Kver since the inter- 
 nal structure of this class of meteorites has been examined by 
 sections through the center of these compact metallic masses, 
 nodular concretions have been noted in their interior, the most 
@@ -243,7 +218,7 @@ the Toluca, the Cranbourne, the DeKalb, and the Sevier: the
 last two have received my special study, the latter furnishing 
 much the larger part of the material in my hands. 
 
-Character of the graphite nodules.— These concretions differ 
+Character of the graphite nodules.--- These concretions differ 
 more or less in appearance, while their general character is the 
 same. In this communication I cal] special attention to a large 
 nodule taken from the very center of the Sevier iron, the largest 
@@ -258,7 +233,7 @@ Orgueil, however, we find nearly three per cent of oxides, nickel and cobalt, an
 the Rhoda has not been very critically examined. 
 
 
-J. L. Smith—Carbon Compounds in Meteorites. 393 
+J. L. Smith---Carbon Compounds in Meteorites. 393 
 
 
 the other direction vary from 20 to 35mm. The weight before 
@@ -291,7 +266,7 @@ mined on a piece in which no troilite was visible to the eye,
 and after it was immersed in water and placed under the re- 
 ceiver of an air pump to abstract the air from its pores. 
 
-Chemical character of the graphitic nodule.—W hen pulverized 
+Chemical character of the graphitic nodule.---W hen pulverized 
 and heated in a short glass tube from 100° to 150° C., water is 
 given off which is doubtless water absorbed from the air by the 
 graphite. If heated a little higher and then brought close to 
@@ -300,7 +275,7 @@ still higher, there is a slight odor of sulphuretted hydrogen. If
 heated in the open air ~ the carbon is burnt with difficulty, 
 showing its true graphitic nature. 
 
-Treatment of the graphite by ether.—Very pure and concen- 
+Treatment of the graphite by ether.---Very pure and concen- 
 trated ether was added to two grams of material in powder and 
 rubbed up in a porcelain mortar; then poured into a small 
 beaker ; a little more ether was added and the two allowed to 
@@ -315,7 +290,7 @@ of the vessel, and some shorter ones were in the bottom. There
 were also some rhomboidal crystals and rounded particles. The 
 
 
-394 J. L. Smith—Carbon Compounds in Meteorites. 
+394 J. L. Smith---Carbon Compounds in Meteorites. 
 
 
 solid residue exhaled a peculiar odor of an aromatic character, 
@@ -371,7 +346,7 @@ which the evaporation took place furnished the marked reaction
 by heat of volatilization in part and condensation of the same 
 
 
-J. L. Smith—Carbon Compounds in Meteorites. 433 
+J. L. Smith---Carbon Compounds in Meteorites. 433 
 
 
 with a carbon residue. The Cranborne graphite requires more 
@@ -382,7 +357,7 @@ Further remarks about this peculiar substance will be made
 a little farther on, when I come to speak of the same compound 
 as obtained from the black or carbonaceous meteorites. 
 
-Action of strong nitric acid on the graphite.—Strong nitric 
+Action of strong nitric acid on the graphite.---Strong nitric 
 acid, poured upon the powdered graphite that had been treated 
 with ether and bi-sulphide of carbon acted vigorously upon the 
 sulphide of iron mixed with it, and after digestion for some 
@@ -416,7 +391,7 @@ nodules; but I would not without further examination regard
 this as likely to be the rule in all cases. 
 
 Action of fuming nitric acid mixed with potash chlorate on the 
-meteoric graphite—The oxidation of graphite by this method 
+meteoric graphite---The oxidation of graphite by this method 
 is well known to chemists, it having been first pointed out, 
 as I have stated, by Mr. Brodie in 1860, and subsequently by 
 Berthelot in his elaborate memoirs published in the Annales de 
@@ -431,7 +406,7 @@ only those forms of carbon known as graphites proper furnish-
 ing the graphitic oxide. The same chemist studied this oxid- 
 
 
-434 J. L. Smith—Carbon Compounds in Meteorites. 
+434 J. L. Smith---Carbon Compounds in Meteorites. 
 
 
 izing action upon the graphite from the Cranbourne meteoric 
@@ -442,7 +417,7 @@ gave rise to the oxide.
 The study of this subject I have pushed further, and have 
 oxidized the graphites from the Sevier County and the De 
 Kalb County meteorites, and have also re-examined that of the 
-Cranbourne iron—having been very liberally furnished with a 
+Cranbourne iron---having been very liberally furnished with a 
 specimen by my friend, Prof. Maskelyne, of the British Museum. 
 The carbonaceous matter from the Orgueil meteorite has also 
 been subjected by me to the same reaction. 
@@ -488,7 +463,7 @@ sources.
 My experiments on terrestrial graphites have been confined 
 
 
-J. L. Smith—Carbon Compounds in Meteorites. 435 
+J. L. Smith---Carbon Compounds in Meteorites. 435 
 
 
 to the Siberian, Cumberland, and Ceylon varieties; and they 
@@ -552,7 +527,7 @@ This meteorite is one of the most interesting of all the
 known carbonaceous meteorites. And there are one or 
 
 
-436 J. L. Smith—Carbon Compounds in Meteorites. 
+436 J. L. Smith---Carbon Compounds in Meteorites. 
 
 
 two points connected with it that do not appropriately be- 
@@ -608,7 +583,7 @@ sequently evaporated, when a residue was left consisting of a
 yellow solid surrounded by a dark brown semi-solid mass in 
 
 
-J. L. Smith— Carbon Compounds in Meteorites. 437 
+J. L. Smith--- Carbon Compounds in Meteorites. 437 
 
 
 minute quantity. This last is evidently a carbon combination 
@@ -671,7 +646,7 @@ Ht
 7 
 
 
-438 J. L. Snvith— Carbon Compounds in Meteorites. 
+438 J. L. Snvith--- Carbon Compounds in Meteorites. 
 
 
 by a sulphur compound chemists will be apt to admit, perhaps 
@@ -680,8 +655,8 @@ hydrate of ethylene C*H*S‘; and the needle-shaped crystals
 may not be far removed from the solid quintisulphide of ethyl- 
 ene, C‘H®S%, corresponding to sulphur 75:00, carbon 20-00, 
 hydrogen 5:00. The erystals I scraped from the sides of the 
-beaker—at the upper part—on which the ether solution of the 
-Oreueil meteorite was evaporated to dryness, gave—sulphur 
+beaker---at the upper part---on which the ether solution of the 
+Oreueil meteorite was evaporated to dryness, gave---sulphur 
 79°65, carbon 15-00, hydrogen 3-00. 
 
 In the above analysis the amount of sulphur is well deter- 
@@ -733,7 +708,7 @@ stones have been formed by the agency of water; his arguments are interesting,
 but far from being sufficient to cover all the facts in connection with meteorites. 
 
 
-J. L, Smith—Carbon Compounds in Meteorites. 439 
+J. L, Smith---Carbon Compounds in Meteorites. 439 
 
 
 teristic constituents of the nodules are here found. Then 
@@ -790,7 +765,7 @@ etc., I consider as having a similar origin to that found in the
 * Annales de Chem. et de Physique, Fourth Series, xix, 425. 
 
 
-440 J. L. Smith—Carbon Compounds in Meteorites. 
+440 J. L. Smith---Carbon Compounds in Meteorites. 
 
 
 irons; for I have proved that they both contain similar crys- 
@@ -844,7 +819,7 @@ to consider the H?O as united to the carbon in the same way
 as it is to metallic oxides to form what are known as hydrated 
 
 
-J. L. Smith— Carbon Compounds in Meteorites. 441 
+J. L. Smith--- Carbon Compounds in Meteorites. 441 
 
 
 oxides. If, however, it is to be considered as combined in a 
@@ -905,7 +880,7 @@ the predominating constituent materials of all stony meteorites ;
 when heated in the same way. 
 
 
-442 J. L. Smith—Carbon Compounds in Meteorites. 
+442 J. L. Smith---Carbon Compounds in Meteorites. 
 
 
 also with the nickeliferous iron found in both the stoney and 
