@@ -1,0 +1,947 @@
+# Researches on the Solid Carbon Compounds in Meteorites.
+
+## By J. Lawrence Smith,
+
+### Louisville, Kentucky.
+
+In the study of Meteorites, it is well known that, of all the 
+simple and compound substances met with in these bodies, the 
+carbon has received the least study and investigation. This has 
+arisen principally from the limited amount of material at the 
+command of the chemist,—a fact to be regretted, since if any 
+one element more than another demands attention, and excites 
+
+
+J. L. Smath— Carbon Compounds in Meteorites 389 
+
+
+wonder at the part it plays, either as an element or in its end- 
+less combinations with other substances, that element is carbon. 
+
+In its elementary condition we see it in crystals of exceeding 
+hardness and brilliancy in the diamond, and also in irregular, 
+nearly opaque masses that are not to be eonfounded with the 
+diamond. Again, we have carbon in a soft, black, unctuous 
+state, either in lustrous flaky crystals, or in fine-grained masses. 
+It also occurs in the harsh and gritty form of coke, sometimes 
+changed to an unctuous body approaching graphite in aspect, 
+yet different physically as well as in some of its chemical rela- 
+tions. Deposits of anthracite furnish carbon in yet another 
+form. Besides these, the results of decomposition of what are 
+known as organic compounds give quite a list of different forms 
+of carbon, made either by the incomplete combustion of hydro- 
+carbons, or by passing through red-hot tubes the vapors of hy- 
+drocarbons, chloride of carbon, sulphide of carbon, ete., or by 
+the decompositions of such substances as carbonic acid, carbides 
+of boron, of iron, of manganese, etc. 
+
+These various forms of carbon have certain chemical differ- 
+ences, more or less marked, which differences have attracted the 
+attention of chemists, although no one has studied them with 
+much care or success except M. Berthelot, their investigation 
+being difficult on account of the want of proper methods. M. 
+Berthelot obtained his results by taking advantage of the sin- 
+gularly slow oxidizing action of a mixture of nitric acid and 
+chlorate of potash on carbon, first pointed out by M. B. C. 
+Brodie, in 1860,* in experiments on graphite, by which he pro- 
+duced for the first time what is known as graphitic oxide. He 
+operated by this means on very many specimens of carbon, 
+from the diamond to lamp-black, embracing a large variety of 
+artificially prepared carbons, and discovered certainly six or 
+eight more or less distinct chemical characteristics of these dif- 
+ferent carbons.t The physical differences of some of them are 
+well known ; among these differences none is more remarkable 
+than that of their specific heats. Other bodies known as elements, 
+as silicon and boron, oxygen, etc., take upon themselves different 
+conditions called allotropic conditions,{—a term applied to the 
+isomeric conditions of simple bodies; but carbon differs from 
+these, not only in exhibiting a most wonderful variety of allo- 
+tropic conditions, but also in the phenomena coming under the 
+head of isomerism, polymerism, and metamerism; so much 
+
+
+* Annalen der Chemie und Pharm., April, p. 6. 
+
++ The full detail of his researches is to be foundin the Annales de Chimie et de 
+Physique, IV, xix, 392, 1870 and xxx, 419, 1873. 
+
+t Notwithstanding the recent experiments of M. Weber, showing that under 
+certain conditions, carbon, silicon, and boron are not exceptions to the law of 
+Dulong and Petit, they still occupy a singular position in regard to specific heat. 
+
+
+390 J. L. Smith—Carbon Compounds in Meteorites. 
+
+
+so, that we are disposed to take this body away from the rank 
+of a mere element, and call it a protean body that gives rise to 
+substances of endless form and variety by combining with a 
+very limited number of elements. 
+
+Additional interest attaches to carbon from the fact of its 
+being regarded as belonging preéminently to the organic king- 
+dom. In fact, some of the best observers and investigators 
+assume that there is no such thing as mineral carbon among the 
+rocks of our globe, and that wherever found, whether as dia- 
+mond, graphite, or coal, it is a product derived from organic 
+matter, in which it had first performed its part in the economy 
+of nature. 
+
+A still more exciting interest has been felt in carbon since 
+the new department of celestial chemistry has received the 
+attention of scientists. And here we are not left for our know- 
+ledge of celestial carbon to the attenuated form of it which can 
+be detected only by astronomical instruments; for masses of 
+matter from other spheres reach our globe from time to time, 
+bringing with them specimens of solid carbon for our investi- 
+gation, and, at the same time, perplexing our minds with ques- 
+tions as to its mineral or organic origin, and as to the existence 
+or not of life on other planets, and in other systems of planets. 
+
+Like the footprints of former life on the rock strata of our 
+globe, these indications in what we call meteorites, however 
+slight they may be, are not to be disregarded. While I do not 
+wish to arrogate to myself any undue merit in the study of this 
+subject, I must say that I believe that my methods published 
+in 1855* set forth more prominently than it had.been done be- 
+fore, the proper method of research for arriving at correct con- 
+clusions. It is clear that to attain positive results, the astrono- 
+mer, physicist, mineralogist, and chemist must not run counter 
+to one another in the use of the facts severally studied by them; 
+and in all that I have done in this direction, it has been my 
+effort to keep this in view. 
+
+In the present memoir, it is my object to develope new 
+facts, and consider some points in connection with the carbon 
+of meteorites. 
+
+
+1. The Carbonaceous Meteorites. 
+
+
+Certain well known meteorites, from among those whose fall 
+has been observed, have been called, from their aspect, and 
+from their containing a small amount of carbon, carbonaceous 
+meteorites, although the small amount of carbon contained in 
+them is not sufficient to account for their color. Perhaps the 
+term melanotic meteorite would be a more appropriate one, to 
+distinguish them from the stony and iron meteorites. There 
+
+
+* This Journal, II, xix, 153, 322. 
+
+
+, 
+
+
+J. L. Smith—Carbon Compounds in Meteorites. 391 
+
+
+are but four of them yet known, viz: that which fell at Alais 
+in 1806, that at Kold-Bokeveldt in 1888, that at Kaba in 1857, 
+and that at Orgueil in 1864. They contain, respectively, about 
+8, 2, 0°6, and 6 per cent of carbonaceous matter. 
+
+I would here remark that the Alais, Kold-Bokeveldt, and 
+Orgueil are more closely allied to each other than to the Kaba 
+meteorite. The predominating mineral constituents are about 
+as follows: 
+
+
+Alais, K-Bokt., Kaba, Orgueil, 
+
+by Berz. by Harris. by Wohler. by Pisani. 
+Stlicae sere 2 a2 o1s22 30°80 34°24 26°08 
+Magnesia -.-... 22°21 22°20 22°39 17:00 
+Tron protoxide-_ 29:03 29°94 26°20 29°60 
+
+
+If we now contrast these mineral constituents with those pre- 
+dominating in well-known meteoric stones, a most striking fact 
+presents itself—one not commonly realized by those engaged in 
+the study of these bodies. It is seen on comparing the above 
+with the following tables: 
+
+
+Chassigny. Chateau Renard. Harrison City. Concord. Danville. Searsmont. 
+
+
+Siligaeen eo D230 38°13 47°30 47°30 50°08 40°61 
+Magnesia --_ .-31°76 17°67 24:53 24:53 20°14 36°34 
+Tron protoxide 26°70 29°44. 28°03 28°08 19°85 19°21 
+
+
+From these tabular statements, it will be seen that, deducting 
+the small amount of carbon contained in the black meteorites, 
+the mass of mineral matter constituting them is about the same, 
+and corresponds thus with the so-called common type of me- 
+teorie stones; and hence the mineral matter to which these con- 
+stituents belong must be the same in the two classes of meteor- 
+ites, viz: olivines and pyroxenes, differme only in the more or 
+less compact form of these minerals. 
+
+In the writings of some of the most astute observers of these 
+bodies, we find little stress laid on these facts. Thus, M. Meunier, 
+in a paper on the origin of meteorites, published in the Cosmos 
+of December, 1869, expresses his amazement that I should speak 
+of the circumscribed uniformity of the composition of meteor- 
+ites as evidence of a circumscribed cosmical origin of these 
+bodies, both with reference to the sphere or spheres whence 
+they come, as well as their rock structure. He takes so opposite 
+a view as to say (p.9), “So far from the meteorites showing 
+such a resemblance, we can establish between meteoric iron, 
+olivine meteorites, aluminous meteorites, and carbonaceous me- 
+teorites, differences as great as between the most different 
+terrestrial rocks.” An assertion which would include all the 
+ranges of rocks and sedimentary deposits from the basalt and 
+granite to the cretaceous and tertiary deposits. 
+
+Let any one look at the above table, and say whether or not 
+
+
+392 J. L. Smith—Carbon Compounds in Meteorites. 
+
+
+he sees so vast a difference in the mineral constituents of the 
+different meteorites there enumerated; and yet they represent 
+the two extremes of these bodies so far as their external proper- 
+ties are concerned. It is well known that three or four mine- 
+rals represent the great mass of the constituents of every meteor- 
+ite im various proportions, viz: nickeliferous iron, olivine, 
+pyroxene, and anorthite, especially the first three; and the 
+purely iron meteorites must be recognized as magnified masses 
+of the metallic particles to be found in every stony meteorite, 
+not excepting even the carbonaceous meteorites.* 
+
+My object, however, in this paper is not to discuss at length 
+the general internal resemblances of these bodies, as I may have 
+occasion to do it more fully at another time. I wish simply to 
+note, that black and pulverulent as are the carbonaceous mete- 
+orites, they are not removed by their mineral constituents from 
+the so-called common meteorites. I now pass on to show that 
+even in their carbonaceous constituent they are strongly linked 
+even to the iron meteorites. 
+
+2. Graphite carbon in the lron Meteorites.—Kver since the inter- 
+nal structure of this class of meteorites has been examined by 
+sections through the center of these compact metallic masses, 
+nodular concretions have been noted in their interior, the most 
+common of which consist of ¢rovite, a protosulphide of iron, and 
+fillmg ovoidal cavities. Sometimes these troilite concretions 
+have a thin coating of a lighter colored mineral known as 
+schreibersite; and this last is also found alone in coneretionary 
+masses which are usually angular or lamellar. 
+
+Less frequent concretions ‘than either of the above, and even 
+more remarkable, consist of carbon of the character of graphite : 
+these, like the troilite, usually fill irregular ovoidal cavities, and 
+are more or less contaminated with the latter mineral. 
+
+The most important of the meteoric irons containing these 
+nodules, that have come under my immediate observation, are 
+the Toluca, the Cranbourne, the DeKalb, and the Sevier: the 
+last two have received my special study, the latter furnishing 
+much the larger part of the material in my hands. 
+
+Character of the graphite nodules.— These concretions differ 
+more or less in appearance, while their general character is the 
+same. In this communication I cal] special attention to a large 
+nodule taken from the very center of the Sevier iron, the largest 
+that has come under my observation, and perhaps the largest 
+known. It was detached from the iron entire and perfect in 
+every respect. Its greatest length is 60 mm. ; its dimensions in 
+
+
+* At present, the Orgueil and Rhoda meteorites are the only two in which no 
+positive evidence of the presence of nickeliferous iron has been traced; in the 
+Orgueil, however, we find nearly three per cent of oxides, nickel and cobalt, and 
+the Rhoda has not been very critically examined. 
+
+
+J. L. Smith—Carbon Compounds in Meteorites. 393 
+
+
+the other direction vary from 20 to 35mm. The weight before 
+it was cut was 92 grams. Its form is that of an irregular 
+dumb-bell, flattened on one side, and slightly nodular on the 
+surface. Its color is plumbago-black, except at small places 
+on the surface, where there is a little bronze-colored troilite. 
+Its texture is remarkably close and compact, and it is cut 
+readily by the saw except when the tool encounters particles of 
+enclosed troilite. Its structure and powder is not unlike that 
+of the close-textured graphite of Borrowdale in Cumberland, 
+England, and quite unlike the scaly graphite such as that from 
+Ceylon, or that found in certain cast irons. 
+
+Hxamined from the circumference to the center this nodule 
+presents the following appearances: About one-fifth of the cir- 
+cumference of the section is made up of troilite with a thickness 
+of one millimeter. The remainder of the section has all the 
+aspect of graphite, except in a few spots. In the nodule there 
+is a small mass of troilite not unlike in form the entire nodule ; 
+it is 10 mm. long by about 5 mm. wide; it is not continuous 
+from its circumference to its center, but the center portion is 
+cut off completely from the exterior portion by a thin belt of 
+graphite one-half to three-quarters of a millimeter in thickness. 
+Again on other parts of the surface small particles of troilite 
+are to be seen. 
+
+The specific gravity of this graphite is 226 mm., as deter- 
+mined on a piece in which no troilite was visible to the eye, 
+and after it was immersed in water and placed under the re- 
+ceiver of an air pump to abstract the air from its pores. 
+
+Chemical character of the graphitic nodule.—W hen pulverized 
+and heated in a short glass tube from 100° to 150° C., water is 
+given off which is doubtless water absorbed from the air by the 
+graphite. If heated a little higher and then brought close to 
+the nose, a slight empyreumatic odor is apparent; if heated 
+still higher, there is a slight odor of sulphuretted hydrogen. If 
+heated in the open air ~ the carbon is burnt with difficulty, 
+showing its true graphitic nature. 
+
+Treatment of the graphite by ether.—Very pure and concen- 
+trated ether was added to two grams of material in powder and 
+rubbed up in a porcelain mortar; then poured into a small 
+beaker ; a little more ether was added and the two allowed to 
+remain together for 12 or 18 hours, the vessel being covered to 
+prevent evaporation. The ether was then filtered off from the 
+graphite which was finally washed with a little ether. The 
+ether was allowed to evaporate slowly in the uncovered beaker 
+Pe where the temperature was about 88° C. After the ether 
+
+ad evaporated, long colorless acicular crystals covered the sides 
+of the vessel, and some shorter ones were in the bottom. There 
+were also some rhomboidal crystals and rounded particles. The 
+
+
+394 J. L. Smith—Carbon Compounds in Meteorites. 
+
+
+solid residue exhaled a peculiar odor of an aromatic character, 
+somewhat alliaceous. The quantity of these crystals was small, 
+not exceeding 15 milligrams from two grams of the graphite. 
+Heated on a piece of platinum foil they fuse at about 120° C. 
+Heated in a small tube closed at one end, they first melt and 
+then volatilize, condensing in yellow drops that soon solidify 
+leaving a carbonaceous residue. They are not soluble in 
+alcohol, but very soluble in sulphide of carbon. Fuming nitric 
+acid oxidizes the material, and gives, as one of the products, 
+sulphuric acid. The quantity was too small to admit an ulti- 
+mate analysis, but it was very evident that sulphur was the 
+predominating constituent, the remainder being carbon and 
+hydrogen. These three elements may be combined, forming a 
+peculiar sulph-hydrocarbon, which in a previous note I called 
+celestialite, or it may be sulphur containing a minute quantity 
+of a hydrocarbon that gives the peculiar odor and determines 
+the somewhat singular form of crystallization of the sulphur ; 
+we these acicular crystals may be only elongated rhombohe- 
+rons. 
+
+Be the compound what it may, it is a matter of chemical and 
+astronomical interest that a solid graphite nodule thus encased 
+in iron should contain a sulph-hydrocarbon, or free sulphur 
+and a hydrocarbon. 
+
+The graphite powder, after treatment with ether, was then 
+treated with bi-sulphide of carbon (which was re-distilled just 
+before use) and after standing two or three hours was thrown 
+on a filter; the filtrate was evaporated to dryness, and the resi- 
+due was a yellow solid; in this instance, as in the last, the 
+quantity was small. This, when heated in the open air on 
+platinum foil to a red dull heat, first melts at about the temper- 
+ature that sulphur melts, and finally the sulphur is burnt off, 
+leaving a carbonaceous residue. When heated in a tube, it 
+sublimes, leaving a black residue. 
+
+To all appearances this is the same substance, or mixture of 
+substances, that was extracted by the ether, the ether not hav- 
+ing exhausted the graphite in the first treatment. 
+
+The graphite nodules of the DeKalb and of the Cranbourne 
+irons, on treatment with ether and sulphide of carbon, gave sim- 
+ilar results. In the case of the Cranbourne graphite I had less 
+than one hundred milligrams of the material to operate with, 
+and I hardly hoped to obtain satisfactory results, but I did 
+succeed, however, in obtaining such without the acicular 
+crystals, for the whole residue was less than one milli- 
+gram; but I had enough to recognize the peculiar odor, and 
+also the minute quantity that could be scraped off the vessel in 
+which the evaporation took place furnished the marked reaction 
+by heat of volatilization in part and condensation of the same 
+
+
+J. L. Smith—Carbon Compounds in Meteorites. 433 
+
+
+with a carbon residue. The Cranborne graphite requires more 
+trituration with the ether than that from the Sevier meteorite 
+as it is more flaky on being rubbed up. 
+
+Further remarks about this peculiar substance will be made 
+a little farther on, when I come to speak of the same compound 
+as obtained from the black or carbonaceous meteorites. 
+
+Action of strong nitric acid on the graphite.—Strong nitric 
+acid, poured upon the powdered graphite that had been treated 
+with ether and bi-sulphide of carbon acted vigorously upon the 
+sulphide of iron mixed with it, and after digestion for some 
+time in the acid and washing thoroughly with water, there re- 
+mained 55 p.c. of the origina] matter, which consisted of car- 
+bon. This burnt in air with great difficulty, but very easily in 
+oxygen, leaving a residue of one per cent of ash. 
+
+The nitric acid solution was analyzed and found to contain 
+
+
+Sulphur. -esers sane eee 85°05 
+LLP OD sate ee terse one teeter eee te 62°21 
+CODA tare ee ee a een en ae eee 0°56 
+ENE GKG| PS sere neon We tity eatery, nes, 0°16 Troilit 
+Magnesia= ssc) ea eoes eens soe 0°30 FORME: 
+SiliGay eee en eee ae ee ee ee 0°21 
+
+98°52 J 
+
+
+It is a fact of some interest that in the sulphide of iron 
+which occurs in meteoric irons (when these nodules are per- 
+fectly free from any adhering iron) the quantity of nickel and 
+cobalt present is very minute, a most singular fact if we are to 
+regard these nodules as the result of segregations from the 
+mass of iron. And still further, while the nickel is very largly 
+the predominant metal of the two in the iron, I have noted 
+that the cobalt predominates over the nickel in the sulphide 
+nodules; but I would not without further examination regard 
+this as likely to be the rule in all cases. 
+
+Action of fuming nitric acid mixed with potash chlorate on the 
+meteoric graphite—The oxidation of graphite by this method 
+is well known to chemists, it having been first pointed out, 
+as I have stated, by Mr. Brodie in 1860, and subsequently by 
+Berthelot in his elaborate memoirs published in the Annales de 
+Chemie et de Physique, 4th series, volumes xix and xxx. The 
+result is the formation of a substance which Brodie called 
+graphitic acid and Berthelot graphitic oxide, although the com- 
+pound invariably contains hydrogen as an essential element in 
+its constitution. M. Berthelot made use of this reaction to 
+study the different forms of carbon, finding that the results of 
+the oxidation varied with the carbon from different sources, 
+only those forms of carbon known as graphites proper furnish- 
+ing the graphitic oxide. The same chemist studied this oxid- 
+
+
+434 J. L. Smith—Carbon Compounds in Meteorites. 
+
+
+izing action upon the graphite from the Cranbourne meteoric 
+iron, and also upon the carbon from the Orgueil meteorite, and 
+found that, of the two, only the graphite from the meteoric iron 
+gave rise to the oxide. 
+
+The study of this subject I have pushed further, and have 
+oxidized the graphites from the Sevier County and the De 
+Kalb County meteorites, and have also re-examined that of the 
+Cranbourne iron—having been very liberally furnished with a 
+specimen by my friend, Prof. Maskelyne, of the British Museum. 
+The carbonaceous matter from the Orgueil meteorite has also 
+been subjected by me to the same reaction. 
+
+The details of conducting the process were identically those 
+proposed by M. Berthelot in the memoirs already referred to, 
+viz: To free the powdered graphite from sulphide of iron by 
+first treating it with strong nitric acid, washing it thoroughly 
+on a filter, drying it and mixing it with five times its weight of 
+potash chlorate, then adding this mixture little by little to suf- 
+ficient fuming nitric acid to moisten thoroughly the mass. In 
+making the mixture, I place the nitric acid in a capsule and 
+the latter in a little water with a piece of ice, thus avoiding any 
+risk of explosion. The mixture, after standing a few hours is 
+transferred to a ballon d’assais, and gently heated in a water 
+bath at a temperature from 50° to 60° C. for several days. The 
+result of this action upon the graphites of the Sevier County 
+and DeKalb County meteoric irons was the formation of graph- 
+itic oxide, with all the characteristics of that furnished to 
+Berthelot by the graphite from the Cranbourne iron, as well as 
+to myself from this last graphite. 
+
+The conversion of the meteoric graphite into the oxide is 
+more rapid than that of any terrestrial graphite with which I 
+have experimented. The graphite soon changes from black to 
+green, and finally, after two or three applications of the oxid- 
+izing agent, to a perfectly white substance. This, when fil- 
+tered, washed, and dried under a bell glass with sulphuric acid, 
+gives a yellow powder, somewhat adherent. If the oxidizing 
+action of the nitric acid and potash chlorate be renewed several 
+times on the same material, the oxide gradually diminishes in 
+quantity, and if the process be stopped after the fourth or fifth 
+treatment, the oxide is very gummy, adhering to the filter and 
+preventing complete washing. When dried on the filter it 
+adheres firmly, but can be detached by moistening the filter and 
+rubbing offthe paper with the finger, leaving tenacious flaky 
+films. 
+
+The reaction and decomposition of the oxide obtained from 
+the Sevier graphite is the same as that of the oxide from other 
+sources. 
+
+My experiments on terrestrial graphites have been confined 
+
+
+J. L. Smith—Carbon Compounds in Meteorites. 435 
+
+
+to the Siberian, Cumberland, and Ceylon varieties; and they 
+show that the graphite under consideration differs from them 
+in being more readily converted into oxide, it requiring only 
+one-fifth to one-third of the time; and if the operation be con- 
+tinued by frequently renewing the oxidizing agents, the ox- 
+ide first formed gradually diminishes in quantity, being more 
+thoroughly altered, like some of those forms of carbon ranked 
+as not properly graphites. 
+
+In fact, it appears that the meteoric graphites, when tested by 
+this process, occupy a place between graphites proper and ordi- 
+nary carbon, but much nearer to the graphites. 
+
+After completing my examination of the carbon nodules of 
+the irons, my aim was to see what general deductions could 
+be made with reference to the relations this graphitic material 
+bore to the carbon found in the black meteoric stones. The 
+material to operate with is, however, very rare; but I had in 
+my collection enough for all necessary comparisons, though 
+needing much more in order to obtain the peculiar products in 
+sufficient quantities for chemical analysis. 
+
+
+The Alais meteorite. 
+
+
+Two grams of this meteorite were pulverized finely and 
+treated with boiling water, which dissolved out a small amount 
+of matter; which substance has been studied by others and 
+it is not my object to recur to here. 
+
+The powder was then dried and treated with pure ether, in 
+the same manner as the graphite from the Sevier iron, and the 
+ether allowed to evaporate slowly at a moderate temperature, 
+when the sides of the vessel became covered with acicular crys- 
+tals, mixed with a few rhomboidal crystals. The residue had 
+a peculiar odor, similar to that of the ether extract from the 
+graphite of the Sevier iron, which odor it nearly lost in the 
+same way, after several days exposure to the air. The form 
+and appearance of the crystals are the same as of those obtained 
+from that graphite ; and a portion of the crystals detached and 
+heated in a small tube gave the same character or reaction. 
+
+These crystals have already been studied by Prof. Roscoe, of 
+Manchester, as carefully as could be done with the minute 
+quantity at his disposal. My examination is perfectly in ac- 
+cordance with his, and there is no doubt that this product and 
+that from the graphite must be of the same nature. 
+
+We must not forget to mention that Prof’ Wohler was the 
+first to call attention to the hydrocarbon in these black meteor- 
+ites when examining the one which fell at Kaba. 
+
+
+Orgueil meteorite. 
+
+
+This meteorite is one of the most interesting of all the 
+known carbonaceous meteorites. And there are one or 
+
+
+436 J. L. Smith—Carbon Compounds in Meteorites. 
+
+
+two points connected with it that do not appropriately be- 
+long to this paper, of which I will furnish a note before long. 
+Through the liberality of Prof. Daubrée, and the Administra- 
+tion of the Garden of Plants, I have been furnished with the 
+material on which my investigations have been made. This 
+meteorite has, in most respects, been thoroughly examined by 
+M. Cloez, and by M. Pisani, and their results given in the 
+Comptes Rendus for 1864. The former chemist examined the 
+carbonaceous matter as a whole, considering it to resemble 
+humus; and this on drying at 110° gave him: Carbon 
+63-45, hydrogen 5:98, oxygen 30°75. 
+
+T have, as yet, done little toward the re-examination of this 
+substance, which represents from four to six per cent of the en- 
+tire meteorite, my examinations being made principally for 
+those crystalline products, soluble in ether and bisulphide of 
+carbon, of which I have found about one-half per cent in the 
+meteorite. 
+
+The powdered meteorite was first treated with water and 
+heated over a water-bath, and every thing soluble in that men- 
+struum thoroughly washed out. The soluble portion, dried at 
+100° C., represents 8°65 per cent of the mass. After carefully 
+drying the insoluble portion at 100° C., it was treated with ether 
+in the same manner as the meteoric graphite. The ether was 
+used in large excess, and allowed to remain for ten or twelve 
+hours in contact with the material; the ether was filtered off, 
+and the residue on the filter well washed with ether. The 
+etherial solution was evaporated slowly, when the same acicu- 
+lar crystals made their appearance as in the case of the graphite, 
+and numerous rhomboidal crystals were deposited in the bot- 
+tom of the beaker. These appeared to be identical with those 
+from the graphite. The action of heat on these crystals is 
+the same as on those from the Sevier graphite. 
+
+The powdered meteorite exhausted by the water and ether 
+was next treated by the bisulphide of carbon, when an addi- 
+tional quantity of soluble matter was obtained. On evapora- 
+ting the bisulphide of carbon, a yellow mass remained having 
+the aspect of sulphur. This, when heated, gave evidence of 
+being sulphur mixed with some carbon compound. And to 
+all appearance it was just like the substance obtained by simi- 
+lar treatment of the meteoric graphite. 
+
+The crystals in the upper part of the vessel from which the 
+ether was evaporated being detached by scraping the sides of 
+the vessel with a horn spatula, some bisulphide of carbon was 
+poured upon the portions remaining attached to the vessel by 
+which it was dissolved. The bisulphide of carbon was sub- 
+sequently evaporated, when a residue was left consisting of a 
+yellow solid surrounded by a dark brown semi-solid mass in 
+
+
+J. L. Smith— Carbon Compounds in Meteorites. 437 
+
+
+minute quantity. This last is evidently a carbon combination 
+not contaminated with sulphur, while the yellow mass is sul- 
+phur containing a small portion ofthe carbon compound. 
+
+I was enabled to obtain over 400 milligrams of these mixtures 
+from about 50 grams of the meteorite, much the larger por- 
+tion being sulphur. A few attempts were made to separate the 
+sulphur from the carbon compound, but unsuccessfully ; and I 
+soon saw that by continuing my efforts, I should exhaust the 
+small supply of material without reaching any useful result. 
+So it was thought better to save what was ‘left of the material 
+as a specimen of it. 
+
+The other carbon meteorites [ have not yet examined with 
+regard to the points embraced in this report, but I hope to ob- 
+tain sufficient material before long to allow of this being done, 
+though I do not anticipate any different results from those that 
+have been examined. 
+
+
+The nature of the hydrocarbon found in the meteorte graphite and 
+carbonaceous meteorites. 
+
+
+That this substance belongs to the meteorites at the time of 
+their fall, there can be no doubt; for in the carbonaceous me- 
+teorites there is nothing to enable us to account for its forma- 
+tion in the cabinets in which they have been placed after their 
+fall. And in the case of the graphite nodules they were en- 
+cased in the interior of an iron mass over twenty centimeters 
+in diameter; and, furthermore, the powder operated with was 
+taken from the interior of a compact nodule of graphite. 
+
+I have been strongly inclined to consider this as a hydrocar- 
+bon containing combined sulphur forming a sulph-hydrocar- 
+bon. In the absence of chemical evidence sustaining this 
+view, I lay some stress on the peculiar odor of the ether ex- 
+tract, strengthened by a most singular property of the watery 
+extract from the Orgueil meteorite, of which I will make a 
+short statement, reserving for some future occasion any addi- 
+tional remarks. 
+
+If a small quantity of the powdered Orgueil meteorite, say 
+two grams, be treated with water and heated for a short time 
+over a water-bath, no peculiar odor will be observed, however 
+carefully examined. Throw this on a filter and wash with 
+water, then evaporate the filtrate to dryness over a water-bath, 
+and during this time no odor will be observed. Allow the resi- 
+due to cool, and still there is no odor. But now throw upon 
+the residue a little water, say half to one cubic centimeter, 
+move the capsule around to dissolve the mass, and then on 
+bringing it near to the nose, a marked alliaceous odor will be 
+perceived, sometimes so strong as to be disagreeable, reminding 
+one of the odor of the oil of assafcetida. That it is produced 
+
+
+Ht 
+7 
+
+
+438 J. L. Snvith— Carbon Compounds in Meteorites. 
+
+
+by a sulphur compound chemists will be apt to admit, perhaps 
+a minute quantity of sulphur compound not unlike the sulph- 
+hydrate of ethylene C*H*S‘; and the needle-shaped crystals 
+may not be far removed from the solid quintisulphide of ethyl- 
+ene, C‘H®S%, corresponding to sulphur 75:00, carbon 20-00, 
+hydrogen 5:00. The erystals I scraped from the sides of the 
+beaker—at the upper part—on which the ether solution of the 
+Oreueil meteorite was evaporated to dryness, gave—sulphur 
+79°65, carbon 15-00, hydrogen 3-00. 
+
+In the above analysis the amount of sulphur is well deter- 
+mined; but the examination for carbon and hydrogen was 
+made upon so small a quantity, that the results cannot be re- 
+lied upon as very correct. 
+
+Roscoe burnt in dry oxygen ‘008 grams of the residue from 
+the Alais meteorite, and obtained ‘010 grams of sulphurous 
+acid, 008 grams of carbonic acid, and ‘003 grams of water, 
+making sulphur 125 parts, carbon 54 parts, hydrogen 10. 
+
+As the above analysis was made with only eight milli- 
+grams, of course the results can be considered only as an ap- 
+proximation; but nevertheless, until we get better they must 
+serve as our only guides. 
+
+I have not said anything about the gaseous carbon compounds 
+found in meteorites, as these form a separate study from what 
+is designed in this paper, and besides, Profs. Graham, Mallet, 
+Wright, and others have already investigated their nature. 
+Profs. Wright and Mallet are still engaged in this line of in- 
+vestigation. 
+
+
+Conclusions. 
+
+
+These then are some of the results of ny experiments on 
+the carbon of meteorites, and they are of great interest and 
+importance. That we should find in the graphitic concretions 
+from the interior of a solid mass of iron such substances 
+as free sulphur and a hydrocarbon, simple, or combined with sul- 
+phur, having a nanleed. odor, was certainly not to be expected, 
+especially as we are almost forced to believe that the iron con- 
+taining it must have been at some period in a state of fusion.* 
+
+The graphite nodules themselves are grand chemical and 
+physical puzzles, as well as all the nodular concretions in me- 
+teoric irons; that they have resulted from a process of segrega- 
+tion is self-evident, but how marvelous the completeness of 
+this segregation, for if we analyze the iron even within two or 
+three millimeters of the concretions, only traces of the charac- 
+
+
+* Tn an article recently published by Dr. Mohr (Annalen der Chem. und Pharm., 
+Dec. 1875, page 257), he advances the theory that meteoric iron and meteoric 
+stones have been formed by the agency of water; his arguments are interesting, 
+but far from being sufficient to cover all the facts in connection with meteorites. 
+
+
+J. L, Smith—Carbon Compounds in Meteorites. 439 
+
+
+teristic constituents of the nodules are here found. Then 
+again, in the case of the troilite concretions, this sulphide has 
+been separated from the mass of iron, and a phosphide of iron 
+and nickel has been concreting along with it; and yet, there 
+seems to be so great an incompatibility between these two 
+minerals that they could not commingle, but the phosphuret 
+was thrust, as it were, to the exterior of the nodule, there to 
+form a thin covering to the sulphide, like the skin of an orange 
+over the internal pulp. 
+
+Again, the graphitic concretions bear no resemblance to the 
+scaly graphite found in the slag of iron furnaces and between 
+the crystals of cast iron, either in structure or appearance; the 
+fractured surface is more like that of the Borrowdale graphite, 
+but the oxidizing action of the nitric acid and potash chlorate 
+on this last differs somewhat from the action on the meteoric 
+graphite. Many and varied have been the hypotheses formed 
+in my mind to account for the formation and accumulation of 
+this graphite, but I must admit that I have been forced at last 
+to abandon them all, as none covers all the facts of the case. In 
+appearance this graphite is more like the amorphous carbon 
+that is separated from cast iron, but the oxidizing action of 
+nitric acid and chlorate of potash at once points out their great 
+difference as shown by Berthelot’s experiments.* And although 
+it differs in appearance from the scaly graphite of iron, the oxid- 
+ation of the two are very similar. I am more inclined to 
+adopt the suggestion of Berthelot, that it may be formed by 
+the reaction of bisulphide of carbon upon incandescent iron, 
+as this reaction is known to give rise to an amorphous 
+graphite analogous to the one under consideration, and its asso- 
+ciation with sulphide of iron would lend some support to this 
+hypothesis; and still further the presence of free sulphur and a 
+carbon compound, either a hydrocarbon, or sulph-hydrocarbon, 
+points also in that direction for a solution. 
+
+It is very clear from the present accumulated knowledge of 
+the geological occurrences of graphite that we must abandon 
+all attempt to account for its formation by any one series of 
+reactions on the interior of our globe; for it is to be found in 
+basaltic rocks, in the older crystalline rocks, and through all 
+the series of rocks up to the recent Tertiary formations; and 
+when we add to this the laboratory experiments of Berthelot 
+that I have so frequently quoted, this view of the subject is 
+strengthened. But on this point I may have something more 
+to say in a paper on the Ovifak iron, and the graphite in the 
+basalt in which this iron is found. 
+
+The carbon from the black meteorites, as the Orgueil, Alais, 
+etc., I consider as having a similar origin to that found in the 
+
+
+* Annales de Chem. et de Physique, Fourth Series, xix, 425. 
+
+
+440 J. L. Smith—Carbon Compounds in Meteorites. 
+
+
+irons; for I have proved that they both contain similar crys- 
+talline products soluble in ether and sulphide of carbon, and 
+while the carbonaceous matter reacts differently when treated 
+with nitric acid and potash chlorate, this may arise from the 
+difference of conditions under which the reaction took place 
+that gave rise to it. 
+
+That the carbonaceous matter in the black meteorites is to 
+be regarded as a kind of humus arising from organized matter is 
+contrary to all we know about humus. For if we examine the 
+mineral constituents of these meteorites, we find them to be a 
+granular mass, with particles more or less impalpable, composed 
+essentially of olivine and pyroxene, a most unpromising soil for 
+so luxuriant a growth of vegetation as must have occurred to 
+produce so abundant a percentage of carbonaceous matter as that 
+found in the Orgueil meteorite. The action of caustic potash 
+upon it is different from the action of that alkali upon what is 
+commonly called humus; (although we must bear in mind that 
+humus is not a well-defined substance; it being commonly 
+regarded as vegetable matter that has not undergone complete 
+decomposition into water and carbon, but by imperfect oxida- 
+tion was converted into a varied mixture of carbon and certain 
+organic compounds rich in carbon, some of them soluble in 
+caustic alkalies). After the powdered Orgueil meteorite has 
+been exhausted by water, ether, and sulphide of carbon, caus- 
+tic potash or soda dissolves but an exceedingly minute trace 
+of the carbonaceous matter. and even that trace may be a little 
+hydrocarbon not extracted from the mass by the ether and 
+sulphide of carbon. If a portion of the same be dried at 110° 
+C., and then heated in a closed tube, water will not be given 
+off until the temperature is elevated considerably. If the tem- 
+perature be further increased, only a very slight odor is appar- 
+ent; and this is another marked difference between it and 
+humus. If heated on platinum foil, the carbonaceous matter 
+burns off very readily with little or no odor, leaving an abun- 
+dant residue. According to my experiments this combustible 
+matter amounts to about 4'5 per cent of the entire meteorite. 
+
+It is not at all improbable that the carbonaceous matter of 
+the black meteorites approaches in character the so-called hy- 
+drated carbon first pointed out by M. Eggert, but so clearly 
+defined by MM. Schutzenberger and Bourgeois in a commu- 
+nication made to the Chemical Society of Paris in April, 1875, 
+which was obtained from white cast iron by dissolving away 
+the iron. But it is a question in my mind whether the carbon 
+combination thus obtained from white iron is to be properly 
+considered a hydrated carbon; that is to say, whether we are 
+to consider the H?O as united to the carbon in the same way 
+as it is to metallic oxides to form what are known as hydrated 
+
+
+J. L. Smith— Carbon Compounds in Meteorites. 441 
+
+
+oxides. If, however, it is to be considered as combined in a 
+manner analogous to the H?0O, with ethyl to form alcohol, then 
+there may be some plausibility in the hypothesis. Tor it will 
+be remarked in referring to the actions of this hydrated car- 
+bon that it in no way resembles amorphous or ordinary carbon. 
+
+It is represented by MM. Schutzenberger and Bourgeois as 
+follows: C™:3H?O=carbon 70°95, hydrogen 3:23, oxygen 
+25°80 per cent. 
+
+According to M. Cloez, the carbonaceous matter of the Or- 
+gueil meteorite, after being dried at 110°, was found to be com- 
+posed of carbon 63°45, hydrogen 5°98, oxygen 30°75; and 
+when we consider that some of this hydrogen belongs to the 
+hydrocarbon now known to exist in that meteorite, the remain- 
+der of the hydrogen will approach near the proportion required 
+to form water with the oxygen; and the quantity of carbon 
+that may exist as a hydrate will be slightly diminished. 
+
+Attempts were made to separate completely all the mineral 
+matter from the carbon, but I have failed to do so, after using 
+fluorhydric acid alone, and in conjunction with nitric acid, also 
+fluoride of sodium and sulphuric acid with a small amount of 
+water, then treating the residue with cold nitric acid. There is 
+no difficulty in getting rid of a great part of it, but in every in- 
+stance the carbonaceous matter has been altered, however care- 
+fully the temperature was managed. 
+
+When this matter thus obtained is heated in a closed tube, 
+after being dried at 110° C., it not only furnishes water at about 
+250° C., but gives out a very strong odor somewhat like that 
+produced from certain bituminous coals, at one point resem- 
+bling the disagreeable odor of an ignited cigar of a very inferior 
+quality of tobacco.* 
+
+Viewed in the light of these experimental researches, the most 
+reasonable conclusion is that this carbonaceous matter is not in 
+any proper sense either carbon or humus, but a carbon com- 
+pound analogous to the one just referred to. 
+
+Future researches upon these solid compounds, resembling 
+in appearance amorphous carbon, such as hydrographitic oxide, 
+pyrographitic oxide, carbon-hydrate, and similar compounds 
+that may yet be discovered, will doubtless throw some light on 
+the true nature of the carbonaceous compound of the black 
+meteorites. So far as our knowledge now extends, its forma- 
+tion and its origin are wrapped in as much obscurity as the ori- 
+gin of the bodies in which it is found. 
+
+What we do know is that this carbonaceous matter occurs 
+with the same minerals, viz., olivine and pyroxene, which are 
+the predominating constituent materials of all stony meteorites ; 
+
+
+* This odor will be found to belong to the hydrated carbon from cast iron, 
+when heated in the same way. 
+
+
+442 J. L. Smith—Carbon Compounds in Meteorites. 
+
+
+also with the nickeliferous iron found in both the stoney and 
+metallic meteorites; and furthermore, that this carbonaceous 
+matter contains curious crystalline products soluble in ether 
+and sulphide of carbon, which last have been traced in the gra- 
+phite nodules in the interior of the metallic meteorites. More- 
+over in these graphite nodules we have found magnesia, which 
+is so uniformly a constituent of the minerals of the stoney 
+meteorites. 
+
+So far then as our present knowledge goes, we know of celes- 
+tial carbon in three conditions, viz: in the gaseous form as 
+detected by the spectroscope in the attenuated matter of comets ; 
+in meteorites in the solid form, impalpable in its nature and 
+diffused in small quantities through pulverulent masses of 
+mineral matter that come to the earth from celestial regions; 
+also in the solid form, but compact and hard, resembling terres- 
+trial graphite, and this is imbedded in metallic matter that 
+comes from regions in space. But while we speak of these as 
+forms of carbon, I think we should be careful in associating it 
+in our minds with the element carbon as we understand it in its 
+pure state whether crystallized or amorphous, for I cannot 
+reconcile the carbon vapor detected in comets as simply that 
+known as pure carbon in the form of an elastic vapor, nor are 
+we to circumscribe ourselves with the notion that this cosmical 
+carbon has an organic origin. 
+
+The researches embraced in this communication, while in 
+many respects of a novel character, are imperfect from their 
+very nature, both from lack of material for a thorough and com- 
+plete study, as well as from the present imperfect methods of 
+operating upon a minute quantity of the most interesting of 
+the substances obtained. 
+
+I have therefore detailed as carefully as I could all the results 
+as they have developed themselves, hoping that future oppor- 
+tunities may be afforded for continuing them, when new celes- 
+tial messengers of the carbonaceous type shall visit our globe. 
