@@ -1,7 +1,7 @@
 # Researches on the Solid Carbon Compounds in Meteorites.
 
 [English - Plain Text](full-text-english.md)  
-English - PDF  
+[English - PDF](https://cdn.solaranamnesis.com/JohnLSmith/carbon-meteorites/j-l-smith-researches-carbon-meteorites-1876-english.pdf) | [Atkinson](https://cdn.solaranamnesis.com/JohnLSmith/carbon-meteorites/j-l-smith-researches-carbon-meteorites-1876-english-atkinson.pdf) | [Biolinum](https://cdn.solaranamnesis.com/JohnLSmith/carbon-meteorites/j-l-smith-researches-carbon-meteorites-1876-english-biolinum.pdf) | [Kerkis](https://cdn.solaranamnesis.com/JohnLSmith/carbon-meteorites/j-l-smith-researches-carbon-meteorites-1876-english-kerkis.pdf)  
 French - Plain Text  
 French - PDF  
 
